@@ -13,15 +13,15 @@
 
 Λίστα προτεινόμενου εξοπλισμού
 
-Arduino Mega
+Arduino Mega,
 Αντίσταση,
-breadboard
-Καλώδια για Arduino
-Thermocaple SPI MAX6675
-Wifi shield
-Bluetooth shield
-Ρελέ 8αδα
-Τροφοδοτικό 12 V, 1Α
-Αισθητήρας Βάρους
-Πιεστικό
+breadboard,
+Καλώδια για Arduino,
+Thermocaple SPI MAX6675,
+Wifi shield,
+Bluetooth shield,
+Ρελέ 8αδα,
+Τροφοδοτικό 12 V, 1Α,
+Αισθητήρας Βάρους,
+Πιεστικό,
 Βρύση
